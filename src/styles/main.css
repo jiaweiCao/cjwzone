@@ -43,6 +43,10 @@ body {margin: 0;background-color: white}
     width: 3.5rem;
     height: 1rem;
 }
+.equ {
+    width: 2rem;
+    height: 2rem;
+}
 .workSpace {
     width: 50%;
     height: 2rem;
